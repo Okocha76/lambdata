@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "C:\\Users\\JJ\\.virtualenvs\\lambdata-jymTo0ZV\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\JJ\\.virtualenvs\\lambdata-jymTo0ZV\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
 }
